@@ -1,0 +1,28 @@
+{
+  "name": "events-app",
+  "version": "1.0.0",
+  "description": "Events App made with Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgardoPinto-EscalierScoffe/Events-App.git"
+  },
+  "keywords": [
+    "Event",
+    "App"
+  ],
+  "author": "Edgardo Pinto-Escalier Scoffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgardoPinto-EscalierScoffe/Events-App/issues"
+  },
+  "homepage": "https://github.com/EdgardoPinto-EscalierScoffe/Events-App#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.5.13",
+    "vue-resource": "^1.3.5"
+  }
+}
